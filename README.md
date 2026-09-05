@@ -1,4 +1,3 @@
-```markdown
 # Datalogging from Inverter via Pymodbus 
 
 ### by Jade Watanasoponwong 
@@ -605,4 +604,8 @@ Approximately 582.75 KB/ day, 207.72 MB/ year
 
 *(Calculated based on if every registers logs value every 5 minutes)*
 
-```
+
+
+
+
+
